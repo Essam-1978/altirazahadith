@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'LineAwesome';
+	src: url(../../assets/fonts/line-awesome.eot?v=1.1.) format('embedded-opentype'),
+	url(../../assets/fonts/line-awesome.eot?%3Fv=1.1.) format('embedded-opentype'),
+	url(../../assets/fonts/line-awesome.woff2?v=1.1.) format('woff2'),
+	url(../../assets/fonts/line-awesome.woff?v=1.1.) format('woff'),
+	url(../../assets/fonts/line-awesome.ttf?v=1.1.) format('truetype'),
+	url(../../assets/fonts/line-awesome.svg?v=1.1.) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
